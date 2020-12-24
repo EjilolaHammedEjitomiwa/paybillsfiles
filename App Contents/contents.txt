@@ -1,0 +1,14 @@
+App Name: 
+PayBills: Buy Airtime, Data,Electricity and TV
+
+App Short Desc:
+Pay all your bills at a go. Airtime, Data, Electricity and TV Cables
+
+Long Desc: 
+PayBills is a mobile app that allows you to pay your bills without any stress. You can buy airtime, electricity, data sunscriptions
+and tv cables within minutes.
+
+It is very easy to use, create account in few minutes and enjoy fast bills payment. You can fund your wallet in many ways such as
+using your credit cards, bank accounts, dialling ussd codes, account transfer and more.
+
+We have very friendly customer support willing to help you resolve any issues you have.
